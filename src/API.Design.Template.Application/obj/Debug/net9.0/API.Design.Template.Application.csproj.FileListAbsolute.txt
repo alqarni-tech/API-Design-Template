@@ -1,0 +1,4 @@
+C:\Users\00014226\Desktop\Github Projects\SaaS-Starter-Solutions\API-Design-Template\src\API.Design.Template.Application\obj\Debug\net9.0\API.Design.Template.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\00014226\Desktop\Github Projects\SaaS-Starter-Solutions\API-Design-Template\src\API.Design.Template.Application\obj\Debug\net9.0\API.Design.Template.Application.AssemblyInfoInputs.cache
+C:\Users\00014226\Desktop\Github Projects\SaaS-Starter-Solutions\API-Design-Template\src\API.Design.Template.Application\obj\Debug\net9.0\API.Design.Template.Application.AssemblyInfo.cs
+C:\Users\00014226\Desktop\Github Projects\SaaS-Starter-Solutions\API-Design-Template\src\API.Design.Template.Application\obj\Debug\net9.0\API.Design.Template.Application.csproj.CoreCompileInputs.cache

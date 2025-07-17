@@ -1,0 +1,11 @@
+C:\Users\00014226\Desktop\Github Projects\SaaS-Starter-Solutions\API-Design-Template\src\API.Design.Template.Core\bin\Debug\net9.0\API.Design.Template.Core.deps.json
+C:\Users\00014226\Desktop\Github Projects\SaaS-Starter-Solutions\API-Design-Template\src\API.Design.Template.Core\bin\Debug\net9.0\API.Design.Template.Core.dll
+C:\Users\00014226\Desktop\Github Projects\SaaS-Starter-Solutions\API-Design-Template\src\API.Design.Template.Core\bin\Debug\net9.0\API.Design.Template.Core.pdb
+C:\Users\00014226\Desktop\Github Projects\SaaS-Starter-Solutions\API-Design-Template\src\API.Design.Template.Core\obj\Debug\net9.0\API.Design.Template.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\00014226\Desktop\Github Projects\SaaS-Starter-Solutions\API-Design-Template\src\API.Design.Template.Core\obj\Debug\net9.0\API.Design.Template.Core.AssemblyInfoInputs.cache
+C:\Users\00014226\Desktop\Github Projects\SaaS-Starter-Solutions\API-Design-Template\src\API.Design.Template.Core\obj\Debug\net9.0\API.Design.Template.Core.AssemblyInfo.cs
+C:\Users\00014226\Desktop\Github Projects\SaaS-Starter-Solutions\API-Design-Template\src\API.Design.Template.Core\obj\Debug\net9.0\API.Design.Template.Core.csproj.CoreCompileInputs.cache
+C:\Users\00014226\Desktop\Github Projects\SaaS-Starter-Solutions\API-Design-Template\src\API.Design.Template.Core\obj\Debug\net9.0\API.Design.Template.Core.dll
+C:\Users\00014226\Desktop\Github Projects\SaaS-Starter-Solutions\API-Design-Template\src\API.Design.Template.Core\obj\Debug\net9.0\refint\API.Design.Template.Core.dll
+C:\Users\00014226\Desktop\Github Projects\SaaS-Starter-Solutions\API-Design-Template\src\API.Design.Template.Core\obj\Debug\net9.0\API.Design.Template.Core.pdb
+C:\Users\00014226\Desktop\Github Projects\SaaS-Starter-Solutions\API-Design-Template\src\API.Design.Template.Core\obj\Debug\net9.0\ref\API.Design.Template.Core.dll
