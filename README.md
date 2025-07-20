@@ -1,5 +1,10 @@
 # API Design Template
 
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/your-github-username/API-Design-Template/actions)
+[![Tests](https://img.shields.io/badge/tests-passing-brightgreen)](https://github.com/your-github-username/API-Design-Template/actions)
+[![Coverage](https://img.shields.io/badge/coverage-100%25-brightgreen)](https://codecov.io/gh/your-github-username/API-Design-Template)
+<!-- Update badge URLs for your actual CI/CD and coverage provider -->
+
 A comprehensive .NET 8 API template featuring JWT authentication, role-based authorization, API versioning, rate limiting, and Swagger documentation.
 
 ## Features
@@ -111,6 +116,32 @@ Run the tests:
 ```bash
 dotnet test
 ```
+
+## 🧪 Code Coverage & Static Analysis
+
+- **Code Coverage:**
+  - Use [Coverlet](https://github.com/coverlet-coverage/coverlet) for .NET code coverage.
+  - Example CI step:
+    ```yaml
+    - name: Test with coverage
+      run: dotnet test --collect:"XPlat Code Coverage"
+    - name: Upload coverage to Codecov
+      uses: codecov/codecov-action@v4
+      with:
+        files: ./TestResults/**/coverage.cobertura.xml
+    ```
+  - Update your pipeline to upload coverage reports to [Codecov](https://codecov.io/) or [Coveralls](https://coveralls.io/).
+
+- **Static Analysis:**
+  - Integrate [SonarQube](https://www.sonarqube.org/) or [dotnet format](https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-format) in your CI for code quality.
+  - Example CI step:
+    ```yaml
+    - name: Run SonarQube analysis
+      run: dotnet sonarscanner begin ...
+    ```
+  - Add rules and quality gates as needed.
+
+<!-- Update your CI/CD pipeline to include these steps for best results. -->
 
 ## Deployment
 
